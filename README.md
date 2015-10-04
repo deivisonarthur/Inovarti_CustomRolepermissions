@@ -31,12 +31,12 @@ Digamos que a loja seja participante dos marketplaces da Saraiva e Ricardo Eletr
 * Descompacte o arquivo baixado e copie as pastas ``` app```, ```js``` e ```skin``` para dentro do diretório principal do Magento
 * Limpe a cache em ```Sistema > Gerenciamento de Cache```
 
-## Configuração
+# Configuração
 
-1 Configure o modulo em ```Sistema > Permissões > Funções```;
-2 Crie e configure as permissões de acesso para o usuário;
+## 1 Configure o modulo em ```Sistema > Permissões > Funções```
+## 2 Crie e configure as permissões de acesso para o usuário;
 
-3 Recomenda-se aplicar somente as permissões:
+## 3 Recomenda-se aplicar somente as permissões:
 
 #### Visualização das ordens:
 ![image](http://f.cl.ly/items/2k0U1d0G0Y2R3M0X0K0v/Image%202015-10-04%20at%206.06.06%20PM.png)
@@ -44,10 +44,10 @@ Digamos que a loja seja participante dos marketplaces da Saraiva e Ricardo Eletr
 #### Gerenciamento dos clientes e newsletter
 ![image](http://f.cl.ly/items/0f2V0W0x00120O2F0s2g/Image%202015-10-04%20at%206.06.32%20PM.png)
 
-4 Antes de salvar vá na aba Advanced Permissions: Scope e selecione a loja(s) permitidas;
+## 4 Antes de salvar vá na aba Advanced Permissions: Scope e selecione a loja(s) permitidas;
 ![image](http://f.cl.ly/items/3i011h0V0i3W131w3A0J/Image%202015-10-04%20at%205.37.52%20PM.png)
 
-5 Pronto! Basta deslogar e testar os acessos e comprovar que somente esta sendo possível visualização dos itens das lojas selecionadas.
+## 5 Pronto! Basta deslogar e testar os acessos e comprovar que somente esta sendo possível visualização dos itens das lojas selecionadas.
 
 # Atenção!
 <img src="http://www.inovarti.com.br/osc/atencao2.png" alt="Atenção! Faça sempre backup antes de realizar qualquer modificação! E sempre teste em um ambiente de desenvolvimento!" title="Atenção! Faça sempre backup antes de realizar qualquer modificação! E sempre teste em um ambiente de desenvolvimento!" />
