@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Inovarti_CustomRolepermissions>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Inovarti_CustomRolepermissions>
+    </modules>
+</config>
