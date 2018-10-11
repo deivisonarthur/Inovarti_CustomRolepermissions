@@ -25,7 +25,12 @@ class Inovarti_CustomRolepermissions_Block_Adminhtml_Tab_Scope extends Mage_Admi
 
     public function canShowTab()
     {
-        return true;
+        $model = Mage::registry('current_rule');
+        if ($model && $model->getRoleId()) {
+            return true;
+        }
+
+        return false;
     }
 
     public function isHidden()
