@@ -87,5 +87,14 @@
                 </observers>
             </admin_permissions_role_prepare_save>
         </events>
+        <translate>
+            <modules>
+                <Inovarti_CustomRolepermissions>
+                    <files>
+                        <default>Inovarti_CustomRolepermissions.csv</default>
+                    </files>
+                </Inovarti_CustomRolepermissions>
+            </modules>
+        </translate>
     </adminhtml>
 </config>
